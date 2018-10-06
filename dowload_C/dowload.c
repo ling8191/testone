@@ -10,6 +10,8 @@ int main()
 	puts("like!");
 	printf("wo de !");
 
-	int i;
+	int i=0;
+
+	i +=i + 2;
 	return 0;
 }
