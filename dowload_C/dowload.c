@@ -8,5 +8,6 @@
 int main()
 {
 	puts("like!");
+	printf("wo de !");
 	return 0;
 }
