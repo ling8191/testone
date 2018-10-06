@@ -9,5 +9,7 @@ int main()
 {
 	puts("like!");
 	printf("wo de !");
+
+	int i;
 	return 0;
 }
